@@ -2,7 +2,7 @@
 
 基于 Hono.js 的多平台音乐 API 代理服务,封装 [@meting/core](https://www.npmjs.com/package/@meting/core) 提供的统一音乐 API。
 
-## 特性   
+## 特   性   
 
 - 🎵 支持多个音乐平台:网易云、QQ音乐、酷狗、百度、酷我
 - 🚀 基于 Hono.js 高性能框架
