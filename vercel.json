@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/index.php": {
+      "memory": 128
+    }
+  },
   "rewrites": [
     { "source": "/api", "destination": "/api/index.php" },
     { "source": "/api/(.*)", "destination": "/api/index.php" }
